@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         ';jZn^Dnb|^`3zp|PNOEpZFv9!jSt)grT_[t d03Yn.vZp-9:=Z`nk,?I68eU_$=`');
-define('SECURE_AUTH_KEY',  'S0pyzNc>kO@I`?~ltJs}oK0y-A6@1aV${5V?mdNlf~ST^{i$rN:w4W@Oqd5r Bf_');
-define('LOGGED_IN_KEY',    'S}bO9j-)PZwH:G!E[z ;0;T#v.$&=V:9*[Aq(8M][kS`ITx^B{@/8S? TIS$nB?F');
-define('NONCE_KEY',        'Fk_/]N6T.oo3;BT}IC5`DwWQ|WP/~xR5)uZfh V07]*u>+z VI=4 W7E?mqi]1$Y');
-define('AUTH_SALT',        '#*ftX%w*tBr{9Y#z51H76<f7e0*|;`y-:EnR_3=2D#08sGKuH)c= Ks!*Jl?#uv;');
-define('SECURE_AUTH_SALT', 'XL|NCT&pP{(Tch/:}Lm,T8Le$/>{{;|/0HW(~$fSmVp|Pt~i%1, M?@K/45qpuK@');
-define('LOGGED_IN_SALT',   '@4P3l/(vu(aq4?),G.Gvl|1.yn!w<5zWJ_fu8]v;Q:u^V:Nwpb7m<4AOSXV08UIw');
-define('NONCE_SALT',       'e?_ukMFT0E5Vlq8{qF RpvLS&,Ie9%SQ.zUE$f&Vyi*rA}k%pmej9z,|KRp[sj<K');
+define('AUTH_KEY',         'fXSJ%.?:I@lP6la/hF=|eVc]Q,mU.].uOx--?+B|O|f[$LRj)(oj8{6u>1T1f7Nf');
+define('SECURE_AUTH_KEY',  '=@=9)zdb2;=g(.cn!LSPHq@vAJ[w]/_Z3iC|<`Pe]XwF|;VTVjVjEv8/L|$*5 ~N');
+define('LOGGED_IN_KEY',    'AV)`9ozPZa,p?-SkmPU=al.:v/fUAUawUA)xNE@T+Vp@n[A*JHr@_#=cB%mFEPtK');
+define('NONCE_KEY',        ',MGf7]z{1Z2x*K2;wx^yNny2~XN{ZK^?=E#{+ ` 8plJmj_Ho9r$5cKY[Si^8fY8');
+define('AUTH_SALT',        '>[9%3E5 ^G?c}7U-Lc^nW--V3J|q>}mBVW}z<SMAkvHFSd[]CZ6(X-PVzaS;KPs`');
+define('SECURE_AUTH_SALT', 'ONa=4cxyC}LU(i(@1-,D;r:7BwZ%l#Hr+$&Ix_:0^$N;C9rWFct b(x_;9V>zVK1');
+define('LOGGED_IN_SALT',   '2aHR3aAQxn&g QCJo(ATCN>a#[OBC|bpO1xMs!MBv-Xug^u7`ziRm]Q>cw+Rv{rZ');
+define('NONCE_SALT',       '&r5Cl7Wcfg=`o6 U<zK~9+jbYgO1lftaFPL0:LvY6j8!CXx`y~aBN<%7iE3Pg|f2');
 
 /**#@-*/
 
@@ -78,16 +78,9 @@ $table_prefix  = 'kc_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
-
-/**
- *
- *
- *Make plugins and themes installble directly on local host
- *
- */
-define('FS_METHOD', 'direct');
-
 /* That's all, stop editing! Happy blogging. */
+
+define('FS_METHOD', 'direct');
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )

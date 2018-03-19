@@ -1,0 +1,11 @@
+@import url( 'library/css/style.min.css' );
+@import url( 'fonts/fonts.css' );
+@import url( 'style.css' );
+
+html{
+	padding: 10px 30px;
+}
+
+body{
+	background: #fff;
+}

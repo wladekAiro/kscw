@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Huxley v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-01 03:03:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:9
+#@ huxley
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:23
+#@ huxley
+msgid "The article you were looking for was not found. You may want to check your link or perhaps that page does not exist anymore."
+msgstr ""
+
+#: archive.php:30
+#@ huxley
+msgid "Posts Categorized:"
+msgstr ""
+
+#: archive.php:35
+#@ huxley
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:44
+#@ huxley
+msgid "Posts By:"
+msgstr ""
+
+#: archive.php:50
+#@ huxley
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:55
+#@ huxley
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:60
+#@ huxley
+msgid "Yearly Archives:"
+msgstr ""
+
+#: comments.php:18
+#@ huxley
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:18
+#@ huxley
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:18
+#@ huxley
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#@ huxley
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:39
+#@ huxley
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+#@ huxley
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:18
+#@ huxley
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+#@ huxley
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:18
+#@ huxley
+msgid "http://deucethemes.com"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+#@ huxley
+msgid "%s"
+msgstr ""
+
+#: functions.php:74
+#@ huxley
+msgid "Posts Menu Widget Area"
+msgstr ""
+
+#: functions.php:75
+#@ huxley
+msgid "The Posts Menu Widget Area."
+msgstr ""
+
+#: functions.php:84
+#@ huxley
+msgid "Page Menu Widget Area"
+msgstr ""
+
+#: functions.php:85
+#@ huxley
+msgid "The Page Menu Widget Area."
+msgstr ""
+
+#: functions.php:94
+#@ huxley
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:95
+#: functions.php:105
+#: functions.php:115
+#: functions.php:125
+#@ huxley
+msgid "The Footer Widget Area."
+msgstr ""
+
+#: functions.php:104
+#@ huxley
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:114
+#@ huxley
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:124
+#@ huxley
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: functions.php:168
+#@ huxley
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:172
+#, php-format
+#@ huxley
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: functions.php:172
+#@ huxley
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:174
+#@ huxley
+msgid "F jS, Y"
+msgstr ""
+
+#: functions.php:201
+#@ huxley
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: functions.php:213
+#@ huxley
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: functions.php:221
+#@ huxley
+msgid "Site Logo"
+msgstr ""
+
+#: functions.php:223
+#@ huxley
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: functions.php:231
+#@ huxley
+msgid "Choose your logo (ideal width is 100-350px and ideal height is 35-40)"
+msgstr ""
+
+#: functions.php:238
+#@ huxley
+msgid "Site favicon"
+msgstr ""
+
+#: functions.php:240
+#@ huxley
+msgid "Upload a favicon"
+msgstr ""
+
+#: functions.php:248
+#@ huxley
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: functions.php:255
+#@ huxley
+msgid "Social Media Icons"
+msgstr ""
+
+#: functions.php:257
+#@ huxley
+msgid "Optional media icons in the header"
+msgstr ""
+
+#: functions.php:265
+#@ huxley
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: functions.php:276
+#@ huxley
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: functions.php:287
+#@ huxley
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: functions.php:298
+#@ huxley
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: functions.php:309
+#@ huxley
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: functions.php:320
+#@ huxley
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: functions.php:331
+#@ huxley
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: functions.php:342
+#@ huxley
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: functions.php:353
+#@ huxley
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: functions.php:364
+#@ huxley
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: functions.php:375
+#@ huxley
+msgid "Enter your Yelp url"
+msgstr ""
+
+#: functions.php:386
+#@ huxley
+msgid "Enter your RSS url"
+msgstr ""
+
+#: functions.php:397
+#@ huxley
+msgid "Enter your email address"
+msgstr ""
+
+#: functions.php:406
+#@ huxley
+msgid "Slider Options"
+msgstr ""
+
+#: functions.php:408
+#@ huxley
+msgid "Adjust the behavior of the image slider."
+msgstr ""
+
+#: functions.php:418
+#@ huxley
+msgid "Display Slider"
+msgstr ""
+
+#: functions.php:431
+#@ huxley
+msgid "Select Effect:"
+msgstr ""
+
+#: functions.php:448
+#@ huxley
+msgid "Autoplay Speed in Seconds"
+msgstr ""
+
+#: functions.php:456
+#: functions.php:468
+#@ huxley
+msgid "Display Author Bio"
+msgstr ""
+
+#: functions.php:458
+#@ huxley
+msgid "Option to disable the author bio in the posts."
+msgstr ""
+
+#: functions.php:475
+#@ huxley
+msgid "Display Related Posts"
+msgstr ""
+
+#: functions.php:477
+#@ huxley
+msgid "Option to disable the related posts in the posts."
+msgstr ""
+
+#: functions.php:486
+#@ huxley
+msgid "Display the Related Posts?"
+msgstr ""
+
+#: functions.php:493
+#@ huxley
+msgid "Centered logo and navigation"
+msgstr ""
+
+#: functions.php:495
+#@ huxley
+msgid "Option to Display Logo and Navigation in the center."
+msgstr ""
+
+#: functions.php:504
+#@ huxley
+msgid "Display Logo and Navigation in the center?"
+msgstr ""
+
+#: functions.php:859
+#: library/class/class-tgm.php:161
+#@ huxley
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:860
+#: library/class/class-tgm.php:162
+#@ huxley
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:861
+#: library/class/class-tgm.php:163
+#, php-format
+#@ huxley
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:862
+#@ huxley
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:863
+#: library/class/class-tgm.php:165
+#, php-format
+#@ huxley
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:864
+#: library/class/class-tgm.php:166
+#, php-format
+#@ huxley
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:865
+#: library/class/class-tgm.php:167
+#, php-format
+#@ huxley
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:866
+#: library/class/class-tgm.php:168
+#, php-format
+#@ huxley
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:867
+#: library/class/class-tgm.php:169
+#, php-format
+#@ huxley
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:868
+#: library/class/class-tgm.php:170
+#, php-format
+#@ huxley
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:869
+#: library/class/class-tgm.php:171
+#, php-format
+#@ huxley
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:870
+#: library/class/class-tgm.php:172
+#, php-format
+#@ huxley
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:871
+#: library/class/class-tgm.php:173
+#@ huxley
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:872
+#: library/class/class-tgm.php:174
+#@ huxley
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:873
+#: library/class/class-tgm.php:175
+#@ huxley
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:874
+#: library/class/class-tgm.php:177
+#: library/class/class-tgm.php:1940
+#@ huxley
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:875
+#, php-format
+#@ huxley
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:57
+#: header.php:98
+#: library/huxley.php:112
+#@ the-huxley
+msgid "The Main Menu"
+msgstr ""
+
+#: home-post-format/home-audio.php:35
+#: home-post-format/home-chat.php:28
+#: home-post-format/home-link.php:28
+#: home-post-format/home-quote.php:37
+#: home-post-format/home-status.php:34
+#: home-post-format/home-video.php:14
+#: home-post-format/home.php:28
+#, php-format
+#@ huxley
+msgid "<time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time>"
+msgstr ""
+
+#: image.php:27
+#, php-format
+#@ huxley
+msgid "Posted on <time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time>"
+msgstr ""
+
+#: library/class/class-tgm.php:164
+#@ huxley
+msgid "Something went wrong."
+msgstr ""
+
+#: library/class/class-tgm.php:176
+#@ huxley
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/class/class-tgm.php:179
+#, php-format
+#@ huxley
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class/class-tgm.php:180
+#@ huxley
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class/class-tgm.php:531
+#: library/class/class-tgm.php:2157
+#@ huxley
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class/class-tgm.php:1166
+#@ huxley
+msgid "Private Repository"
+msgstr ""
+
+#: library/class/class-tgm.php:1169
+#@ huxley
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class/class-tgm.php:1174
+#@ huxley
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class/class-tgm.php:1177
+#@ huxley
+msgid "Required"
+msgstr ""
+
+#: library/class/class-tgm.php:1177
+#@ huxley
+msgid "Recommended"
+msgstr ""
+
+#: library/class/class-tgm.php:1180
+#@ huxley
+msgid "Not Installed"
+msgstr ""
+
+#: library/class/class-tgm.php:1182
+#@ huxley
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class/class-tgm.php:1287
+#: library/class/class-tgm.php:1395
+#@ huxley
+msgid "Install"
+msgstr ""
+
+#: library/class/class-tgm.php:1309
+#: library/class/class-tgm.php:1396
+#@ huxley
+msgid "Activate"
+msgstr ""
+
+#: library/class/class-tgm.php:1358
+#, php-format
+#@ huxley
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/class/class-tgm.php:1374
+#@ huxley
+msgid "Plugin"
+msgstr ""
+
+#: library/class/class-tgm.php:1375
+#@ huxley
+msgid "Source"
+msgstr ""
+
+#: library/class/class-tgm.php:1376
+#@ huxley
+msgid "Type"
+msgstr ""
+
+#: library/class/class-tgm.php:1377
+#@ huxley
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: library/class/class-tgm.php:1631
+#: library/class/class-tgm.php:178
+#@ huxley
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm.php:1923
+#@ huxley
+msgid "Install package not available."
+msgstr ""
+
+#: library/class/class-tgm.php:1924
+#, php-format
+#@ huxley
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1925
+#@ huxley
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1926
+#@ huxley
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1927
+#@ huxley
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/class/class-tgm.php:1928
+#@ huxley
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:1939
+#@ huxley
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class/class-tgm.php:2053
+#@ huxley
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm.php:2054
+#, php-format
+#@ huxley
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:2054
+#: library/class/class-tgm.php:2063
+#@ huxley
+msgid "Show Details"
+msgstr ""
+
+#: library/class/class-tgm.php:2054
+#: library/class/class-tgm.php:2063
+#@ huxley
+msgid "Hide Details"
+msgstr ""
+
+#: library/class/class-tgm.php:2055
+#@ huxley
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class/class-tgm.php:2056
+#, php-format
+#@ huxley
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class/class-tgm.php:2060
+#@ huxley
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm.php:2061
+#, php-format
+#@ huxley
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class/class-tgm.php:2062
+#, php-format
+#@ huxley
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class/class-tgm.php:2063
+#, php-format
+#@ huxley
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:2064
+#@ huxley
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class/class-tgm.php:2065
+#, php-format
+#@ huxley
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/huxley.php:151
+#, php-format
+#@ the-huxley
+msgid "Page %s"
+msgstr ""
+
+#: library/huxley.php:246
+#, php-format
+#@ huxley
+msgid "Read %s"
+msgstr ""
+
+#: library/huxley.php:259
+#@ huxley
+msgid "Previous"
+msgstr ""
+
+#: library/huxley.php:260
+#@ huxley
+msgid "Next"
+msgstr ""
+
+#: library/huxley.php:290
+#@ huxley
+msgid "Related Posts"
+msgstr ""
+
+#: library/huxley.php:368
+#@ huxley
+msgid "Read "
+msgstr ""
+
+#: library/huxley.php:368
+#@ huxley
+msgid "read more"
+msgstr ""
+
+#: post-formats/format-aside.php:8
+#: post-formats/format-audio.php:17
+#: post-formats/format-chat.php:12
+#: post-formats/format-gallery.php:8
+#: post-formats/format-image.php:8
+#: post-formats/format-link.php:14
+#: post-formats/format-quote.php:13
+#: post-formats/format-status.php:12
+#: post-formats/format-video.php:10
+#: post-formats/format.php:8
+#@ huxley
+msgid "Pages:"
+msgstr ""
+
+#: search.php:28
+#@ huxley
+msgid "Search Results for:"
+msgstr ""
+
+#: sidebar-page.php:16
+#: sidebar.php:16
+#@ huxley
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single.php:41
+#, php-format
+#@ huxley
+msgid "Posted on <time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time> by <span class=\"author\">%3$s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma 
+#: single.php:44
+#@ huxley
+msgid ", "
+msgstr ""
+
+#: single.php:45
+#, php-format
+#@ huxley
+msgid "under %s"
+msgstr ""
+
+#: single.php:77
+#@ huxley
+msgid "About the Author"
+msgstr ""
+
